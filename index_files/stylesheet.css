@@ -46,4 +46,14 @@ td
 .xl65
 	{mso-style-parent:style0;
 	font-family:"Times New Roman", serif;
-	mso-font-charset:0;}
+	mso-font-charset:0;
+	background:black;
+	mso-pattern:black none;}
+.xl66
+	{mso-style-parent:style0;
+	background:black;
+	mso-pattern:black none;}
+.xl67
+	{mso-style-parent:style0;
+	background:white;
+	mso-pattern:black none;}
